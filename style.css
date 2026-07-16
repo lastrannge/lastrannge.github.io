@@ -114,23 +114,6 @@ body {
     opacity:.5;
 
 }
-.signature {
-
-    font-family: "Scriptina", cursive;
-
-    font-size: 4.5rem;
-
-    display: flex;
-
-    justify-content: center;
-
-    gap: 10px;
-
-    margin-bottom: 20px;
-
-    color: white;
-
-}
 
 
 .signature span {
