@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background: radial-gradient(circle at top, #102344 0%, #07101d 55%, #020306 100%);
+    background: radial-gradient(circle at center, #102344 0%, #07101d 45%, #020306 100%);
     color: white;
     font-family: "Inter", sans-serif;
     overflow-x: hidden;
