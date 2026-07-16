@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Scriptina";
+    src: url("fonts/Scriptina.ttf") format("truetype");
+}
 * {
     margin: 0;
     padding: 0;
@@ -195,4 +199,19 @@ body {
 
     }
 
+}
+.signature {
+    font-family: "Scriptina", cursive;
+
+    font-size: 4.5rem;
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 10px;
+
+    margin-bottom: 20px;
+
+    color: white;
 }
