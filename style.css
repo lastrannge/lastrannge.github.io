@@ -198,20 +198,3 @@ body {
             rotate(0);
 
     }
-
-}
-.signature {
-    font-family: "Scriptina", cursive;
-
-    font-size: 4.5rem;
-
-    display: flex;
-
-    justify-content: center;
-
-    gap: 10px;
-
-    margin-bottom: 20px;
-
-    color: white;
-}
