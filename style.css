@@ -216,3 +216,47 @@ body {
     margin-right: auto;
 
 }
+.story-page {
+
+    background: white;
+
+    color: black;
+
+}
+
+
+.story {
+
+    max-width: 700px;
+
+    margin: 80px auto;
+
+    padding: 20px;
+
+}
+
+
+.story h1 {
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 3rem;
+
+    font-weight: 400;
+
+    text-align: center;
+
+    margin-bottom: 60px;
+
+}
+
+
+.story p {
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 1.3rem;
+
+    line-height: 1.8;
+
+}
